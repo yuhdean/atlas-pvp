@@ -1,6 +1,6 @@
 Citizen.CreateThread(function()
     while true do
-        Citizen.Wait(0) -- Loop continuously
-        SetCanAttackFriendly(PlayerPedId(), true, true) -- Enable PvP
+        Citizen.Wait(0) 
+        SetCanAttackFriendly(PlayerPedId(), true, true) 
     end
 end)
