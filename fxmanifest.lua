@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author '48 Development'
+author 'Infinity Development'
 description 'Enable PvP for all players'
 version '1.1.0'
 lua54 'yes'
