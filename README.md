@@ -1,4 +1,4 @@
-# atlas-pvp
+# dean-pvp
 Enables PvP in your server for all players
 
 # Installation
